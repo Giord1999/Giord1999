@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Giord1999
-- 👀 I’m interested in machine learning and finance applications for machine learning
+- 👀 I’m interested in machine learning and finance/accounting applications for machine learning
 - 🌱 I’m currently learning Python and VBA programming languages
-- 💞️ I’m looking to collaborate on machine learning applications in finance, especially in actuarial science
+- 💞️ I’m looking to collaborate on machine learning applications in finance, especially in actuarial science and accounting
 - 📫 How to reach me felicigiordano@outlook.it
 
 <!---
