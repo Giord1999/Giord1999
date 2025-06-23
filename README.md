@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @Giord1999
-- 👀 I’m interested in machine learning and finance/accounting applications for machine learning
-- 🌱 I’m currently learning Python and VBA programming languages
-- 💞️ I’m looking to collaborate on machine learning applications in finance, especially in actuarial science and accounting
-- 📫 How to reach me felicigiordano@outlook.it
+# Giordano Felici - Software Developer
+
+🏦 **Specialized in Accounting, Banking & Financial Software Solutions**
+- Expert in ERP development for accounting and banking institutions
+- Accounting and Loan management systems with advanced analytics (What if analysis tools, Monte Carlo simulations, TAEG calculations)
+- CRM integration for accounting and financial services
+
+💼 **Core Expertise**
+- Python development for accounting financial applications
+- Database design and optimization (PostgreSQL)
+- Risk analysis and forecasting
+- Accounting and banking compliance and reporting systems
+
+🔧 **Technical Stack**
+- Python, SQL
+- Financial modeling and analytics
+- Machine Learning and AI applications in finance
+- Enterprise software architecture
+
+📊 **Current Focus**
+Developing comprehensive ERP solutions for small to medium enterprises, banks and financial institutions, with emphasis on accounting, loan management, risk assessment, and regulatory compliance.
+
+📧 **Professional Contact**: felicigiordano@outlook.it
 
 <!---
 Giord1999/Giord1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
