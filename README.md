@@ -21,6 +21,7 @@
 Developing comprehensive ERP solutions for small to medium enterprises, banks and financial institutions, with emphasis on accounting, loan management, risk assessment, and regulatory compliance.
 
 📧 **Professional Contact**: felicigiordano@outlook.it
+🌍👔 **LinkedIn profile**: https://www.linkedin.com/in/giordano-felici-ba19bb155/
 
 <!---
 Giord1999/Giord1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
