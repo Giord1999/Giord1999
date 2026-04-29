@@ -7,12 +7,12 @@
 
 💼 **Core Expertise**
 - Python development for accounting financial applications
-- Database design and optimization (PostgreSQL)
+- Database design and optimization (T-SQL, PostgreSQL)
 - Risk analysis and forecasting
 - Accounting and banking compliance and reporting systems
 
 🔧 **Technical Stack**
-- Python, SQL
+- Python, C#, SQL
 - Financial modeling and analytics
 - Machine Learning and AI applications in finance
 - Enterprise software architecture
